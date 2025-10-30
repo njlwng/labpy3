@@ -1,13 +1,19 @@
 # Praktikum 3 - Perulangan (Looping)
 
 Nama: Najla Wening Khairunnisa
+
 NIM: 312510225
+
 Kelas: TI.25.A2
+
 Mata Kuliah : Pengantar Pemrograman
 
-**Tujuan Praktikum**
+# Tujuan Praktikum
+
 Mempelajari dan memahami cara kerja perulangan (loop) dalam bahasa Python menggunakan:
+
 -for loop (counted loop)
+
 -while loop (uncounted loop)
 
 # Latihan 1 - Menampilkan Bilangan Acak Kurang dari 0.5
